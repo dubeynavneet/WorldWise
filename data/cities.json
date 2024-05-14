@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "3655",
+      "cityName": "As Sulayyil",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2024-05-13T18:56:16.607Z",
+      "notes": "scf",
+      "position": {
+        "lat": "20.798965787938386",
+        "lng": "45.98876953125001"
+      }
+    },
+    {
+      "id": "3d85",
+      "cityName": "Ner",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-13T18:59:49.950Z",
+      "notes": "Loved it rainfall",
+      "position": {
+        "lat": "20.429741021681874",
+        "lng": "78.00292968750001"
+      }
+    },
+    {
+      "id": "e8e5",
+      "cityName": "Muddur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-14T03:13:21.837Z",
+      "notes": "bhjk",
+      "position": {
+        "lat": "17.920250109312192",
+        "lng": "79.1015625"
+      }
+    },
+    {
+      "id": "753a",
+      "cityName": "Khatao",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-14T07:18:56.443Z",
+      "notes": "NIce waterfall",
+      "position": {
+        "lat": "17.478750345075845",
+        "lng": "74.33349609375001"
+      }
+    }
+  ]
+}
